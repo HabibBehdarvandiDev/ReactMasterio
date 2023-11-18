@@ -1,21 +1,22 @@
-👋 Greetings! I'm Habib Behdarvandi, a seasoned specialist in JavaScript and TypeScript. My passion lies in crafting digital solutions that transcend boundaries. Currently, I'm on the academic path, pursuing a bachelor's degree in Professional Computer Engineering at Amirkabir Arak Technical and Vocational University. 🎓
+👋 Greetings! I’m Habib Behdarvandi, a seasoned specialist in JavaScript and TypeScript. My passion lies in crafting digital solutions that transcend boundaries. Currently, I’m on the academic path, pursuing a bachelor’s degree in Professional Computer Engineering at Amirkabir Arak Technical and Vocational University. 🎓
 
-🚀 My extensive expertise covers a spectrum of technologies, including React, Redux, Next.js, Tailwind CSS, Material-UI, TypeScript, JavaScript, SQL, MongoDB, Prisma, and more. I'm continually expanding my knowledge and skills in this ever-evolving digital landscape...
+🚀 My extensive expertise covers a spectrum of technologies, including React, Redux, Next.js, Tailwind CSS, Material-UI, TypeScript, JavaScript, SQL, MongoDB, Prisma, and more. I continually expand my knowledge and skills in this ever-evolving digital landscape.
 
-🔧 I'm not just a developer; I'm a problem solver. I thrive on deciphering complex challenges and architecting elegant solutions to overcome them. When not immersed in code, you can find me in Call of Duty: Warzone Loby.
+🔧 I’m not just a developer; I’m a problem solver. I thrive on deciphering complex challenges and architecting elegant solutions to overcome them. When not immersed in code, you can find me in the Call of Duty: Warzone lobby.
 
 👻 I channel my creativity into app design using Figma, sculpting user-friendly interfaces.
 
-☕ Amidst the hustle and bustle, I pause for a cup of coffee, savoring the moment with the symphony of my favorite music. I firmly believe that inspiration is often borne from the rhythm of life.
+☕ Amidst the hustle and bustle, I pause for a cup of coffee, savoring the moment with the symphony of my favorite music. I firmly believe that inspiration is often born from the rhythm of life.
 
-👥 As a devoted team player, I thrive in collaborative environments. My ardor for leadership has led me to the role of a team manager on numerous occasions, where I steer projects towards triumphant success.
+👥 As a devoted team player, I thrive in collaborative environments. My ardor for leadership has led me to the role of a team manager on numerous occasions, steering projects towards triumphant success.
 
-Let's connect and embark on a journey of creation, innovation, and problem-solving! 🌟
+Let’s connect and embark on a journey of creation, innovation, and problem-solving! 🌟
 
 ========================================================================================
+
 👋 سلام! من حبیب بهدروندی هستم، یک کارشناس ماهر در زمینه جاوااسکریپت و تایپ‌اسکریپت. علاقه من به ایجاد راه‌حل‌های دیجیتال است که از مرزها فراتر رفته و در حال حاضر در مسیر تحصیلی به دنبال کسب مدرک کارشناسی در رشته مهندسی کامپیوتر حرفه‌ای در دانشگاه فنی و حرفه‌ای امیرکبیر اراک هستم. 🎓
 
-🚀 تخصص گسترده‌ای در زمینه فناوری‌های متعدد دارم، شامل React، Redux، Next.js، Tailwind CSS، Material-UI، TypeScript، JavaScript، SQL، MongoDB، Prisma و موارد دیگر. من به طور مداوم دانش و مهارت‌هایم را در این منظر گسترش میدم...
+🚀 تخصص گسترده‌ای در زمینه فناوری‌های متعدد دارم، شامل React، Redux، Next.js، Tailwind CSS، Material-UI، TypeScript، JavaScript، SQL، MongoDB، Prisma و موارد دیگر. من به طور مداوم دانش و مهارت‌هایم را در این منظر گسترش میدم…
 
 🔧 من فقط یک توسعه‌دهنده نیستم؛ من یک حل‌کننده مسائل هستم. من از رمزگشایی چالش‌های پیچیده لذت می‌برم و راه‌حل‌های شیک برای غلبه بر آنها طراحی می‌کنم. وقتی در دنیای کدنویسی نیستم، من رو میتونید داخل لابی های وارزون پیدا کند.
 
