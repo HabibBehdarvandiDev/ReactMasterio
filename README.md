@@ -1,4 +1,4 @@
-### HI, I'm Habib 👋
+## HI, I'm Habib 👋
 Greetings! I’m Habib Behdarvandi, a seasoned specialist in JavaScript and TypeScript. My passion lies in crafting digital solutions that transcend boundaries. Currently, I’m on the academic path, pursuing a bachelor’s degree in Professional Computer Engineering at Amirkabir Arak Technical and Vocational University. 🎓
 
 🚀 My extensive expertise covers a spectrum of technologies, including React, Redux, Next.js, Tailwind CSS, Material-UI, TypeScript, JavaScript, SQL, MongoDB, Prisma, and more. I continually expand my knowledge and skills in this ever-evolving digital landscape.
